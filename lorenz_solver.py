@@ -3,7 +3,7 @@ import numpy as np
 
 # Lorenz system parameters
 SIGMA = 10.0
-RHO = 90.0
+RHO = 110.0
 BETA = 8.0 / 3.0
 
 def lorenz(t, state):
