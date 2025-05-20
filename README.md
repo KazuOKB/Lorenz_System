@@ -9,7 +9,7 @@
 $$
 \begin{array}{}
 \frac{dx}{dt} &=& \sigma (y-x) \\\
-\frac{dy}{dt} &=& \rho x - x z - y \\\
+\frac{dy}{dt} &=& \rho x - y - x z \\\
 \frac{dz}{dt} &=& x y - \beta z
 \end{array}
 $$
