@@ -19,4 +19,6 @@ $$
 
 # plot_lorenz.py
 このファイルでその結果を三次元プロットする。
-例えば
+例えば$$\rho = 110$$にすると、以下のような図が得られる。
+
+<img src="lorenz_attractor_rho110.png" width="50%" >
